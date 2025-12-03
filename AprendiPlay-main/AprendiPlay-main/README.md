@@ -1,2 +1,2 @@
 # AprendiPlay
-Site do AprendiPlay.
+Site AprendiPlay.
